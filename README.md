@@ -15,7 +15,7 @@ The approach combines **Bootstrapped DQN**, **Random Network Distillation (RND)*
 
 **Technologies:** Python, PyTorch, Gymnasium, Deep Reinforcement Learning
 
-[View Repository](PASTE-YOUR-DISSERTATION-REPO-LINK-HERE)
+[View Repository](https://github.com/FadilahSyed/FYP-Dopamine-Inspired-RL)
 
 ---
 
